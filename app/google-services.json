@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "698202418008",
+    "project_id": "derslistemapp",
+    "storage_bucket": "derslistemapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698202418008:android:05fa5ff9d5cd50a22e132d",
+        "android_client_info": {
+          "package_name": "com.furkanguven.derslistemapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698202418008-krappajm33a065mrvh0e4uu810j0vrst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-wHrgQWCQcw_yEzNLV5M2fRkJT5XrW2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698202418008-krappajm33a065mrvh0e4uu810j0vrst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
